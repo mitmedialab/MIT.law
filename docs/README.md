@@ -1,6 +1,6 @@
 # Continuing Legal Education
 
-* [https://mitmedialab.github.io/LawAndLearning](https://mitmedialab.github.io/LawAndLearning)
+* [https://mitmedialab.github.io/ComputationalLaw](https://mitmedialab.github.io/ComputationalLaw)
 
 **Open Educational Resources for Computational Law with Emphasis on Automation, AI and Blockchain Technologies**
 
