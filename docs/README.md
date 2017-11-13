@@ -2,7 +2,7 @@
 
 * [https://mitmedialab.github.io/ComputationalLaw](https://mitmedialab.github.io/ComputationalLaw)
 
-**Open Educational Resources for Computational Law with Emphasis on AI, Blockchain and Autonomous Technologies**
+**Open Access Resources for Computational Law with Emphasis on AI, Blockchain and Autonomous Technologies**
 
 * MIT Computational Law Blockchain Briefing: [https://computationallaw.org/blockchain-briefing-450aa4fb8d7c](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
