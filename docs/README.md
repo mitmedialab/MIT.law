@@ -1,9 +1,11 @@
 # Continuing Legal Education
 
-* https://mitmedialab.github.io/LawAndLearning
+* [https://mitmedialab.github.io/LawAndLearning](https://law.mit.edu/Computational-Law-Course)
 
-**Request an Invitation to Attend October 30-31, 2017 Learning Sessions**
+**An Educational Shared Resource for Computational Law with Emphasis on Autoation, AI and Blockchain Technologies**
 
-[https://goo.gl/forms/unO3Do94Mi04bItH2.](https://goo.gl/forms/unO3Do94Mi04bItH2.)
+* MIT Computational Law Blockchain Briefing: [https://computationallaw.org/blockchain-briefing-450aa4fb8d7c](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcvgzlU0iPAIz1ubNdNzf770UZcvDhb5GwQaSN4FLJpg1mw/viewform?embedded=true" width="550" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+* MIT-IAP 2018 Computational Law Course: [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
+
+* MIT Legal Forum Collaboration with Women in AI and Blockchain: Blockchain 101 (Coming Soon) 
