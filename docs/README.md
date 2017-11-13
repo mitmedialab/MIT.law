@@ -2,7 +2,7 @@
 
 * [https://mitmedialab.github.io/LawAndLearning](https://law.mit.edu/Computational-Law-Course)
 
-**An Educational Shared Resource for Computational Law with Emphasis on Autoation, AI and Blockchain Technologies**
+**Open Educational Resources for Computational Law with Emphasis on Automation, AI and Blockchain Technologies**
 
 * MIT Computational Law Blockchain Briefing: [https://computationallaw.org/blockchain-briefing-450aa4fb8d7c](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
